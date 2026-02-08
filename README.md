@@ -2,7 +2,7 @@
 
 <img align="right" height="200" src="profile_gif.gif" alt="fun profile animation"/>
 
-🎓 Mathematician → AI researcher
+🎓 Mathematician → AI researcher.  
 🌍 Barcelona · open to relocate (NL/DE/IE/UK/CH/FR · long-term JP)  
 📚 Part-time Master's (UOC). ENS Lyon & Kyoto University exchanges.  
 🧭 Goal: AI research roles where rigor meets product.
