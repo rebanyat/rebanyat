@@ -1,6 +1,6 @@
 # ivan rodríguez quintana
 
-mathematician → ai researcher · girona
+mathematician · ai researcher · girona
 
 > Tinc gana.
 
